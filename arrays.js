@@ -63,5 +63,3 @@ return array[index];
    array.pop()
    return array
  }
-
- 
