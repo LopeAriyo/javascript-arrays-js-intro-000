@@ -39,7 +39,11 @@ return array[index];
  }
 
 
- var destructivelyRemoveElementFromEndOfArray = function (array){}
+ var destructivelyRemoveElementFromEndOfArray = function (array){
+
+   array.pop()
+   return array
+ }
 
  /*
 Define a function in arrays.js called removeElementFromBeginningOfArray. It
