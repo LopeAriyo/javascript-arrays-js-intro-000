@@ -57,4 +57,3 @@ return array[index];
    FourthArray = array.slice(0,array.length-1)
    return FourthArray
  }
-
